@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/LordBeast/Distributed-Communication/issues"
   },
-  "homepage": "https://github.com/LordBeast/Distributed-Communication#readme"
+  "homepage": "https://github.com/LordBeast/Distributed-Communication#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash": "^4.17.4",
+    "socket.io": "^2.0.1"
+  }
 }
